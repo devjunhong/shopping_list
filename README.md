@@ -6,4 +6,5 @@ A simple shopping list using the Electron.
 
 # How to run? 
 > npm install 
+
 > npm start
